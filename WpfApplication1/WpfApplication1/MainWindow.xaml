@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="430" Width="280">
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <!--nubers-->
+        <Button x:Name="seven" Grid.Row="2" Grid.Column="0" FontSize="23" Click="zero_Click">7</Button>
+        <Button x:Name="eight" Grid.Row="2" Grid.Column="1" FontSize="23" Click="zero_Click">8</Button>
+        <Button x:Name="nine" Grid.Row="2" Grid.Column="2" FontSize="23" Click="zero_Click">9</Button>
+        <Button x:Name="four" Grid.Row="3" Grid.Column="0" FontSize="23" Click="zero_Click">4</Button>
+        <Button x:Name="five" Grid.Row="3" Grid.Column="1" FontSize="23" Click="zero_Click">5</Button>
+        <Button x:Name="six" Grid.Row="3" Grid.Column="2" FontSize="23" Click="zero_Click">6</Button>
+        <Button x:Name="one" Grid.Row="4" Grid.Column="0" FontSize="23" Click="zero_Click">1</Button>
+        <Button x:Name="two" Grid.Row="4" Grid.Column="1" FontSize="23" Click="zero_Click">2</Button>
+        <Button x:Name="three" Grid.Row="4" Grid.Column="2" FontSize="23" Click="zero_Click">3</Button>
+        <Button x:Name="zero" Grid.Row="5" Grid.Column="1" FontSize="23" Click="zero_Click">0</Button>
+        
+        <!--math-->
+        <Button x:Name="plus" Grid.Row="1" Grid.Column="4" FontSize="23" Click="plus_Click">+</Button>
+        <Button x:Name="minus" Grid.Row="2" Grid.Column="4" FontSize="23" Click="plus_Click">-</Button>
+        <Button x:Name="multiply" Grid.Row="3" Grid.Column="4" FontSize="23" Click="plus_Click">*</Button>
+        <Button x:Name="devide" Grid.Row="4" Grid.Column="4" FontSize="23" Click="plus_Click">/</Button>
+        <Button x:Name="equal" Grid.Row="5" Grid.Column="4" FontSize="23" Click="equal_Click">=</Button>
+        
+        <!--clear-->
+        <Button x:Name="c" Grid.Row="1" Grid.Column="0" FontSize="23" Click="c_Click">C</Button>
+        <Button x:Name="ce" Grid.Row="1" Grid.Column="1" FontSize="23" Click="ce_Click">CE</Button>
+        <Button x:Name="back" Grid.Row="1" Grid.Column="2" Content="&lt;=" FontSize="23" Click="back_Click"/>
+
+        <!--others-->
+        <Button x:Name="negate" Grid.Row="5" Grid.Column="2" FontSize="23" Click="negate_Click">+-</Button>
+        <Button x:Name="zeros" Grid.Row="5" Grid.Column="0" FontSize="23" Click="zeros_Click" >00</Button>
+        
+        <!--sonuc-->
+        <TextBox x:Name="result" Grid.Row="0" Grid.Column="0" FontWeight="Bold" BorderThickness="0" Grid.ColumnSpan="4" IsReadOnly="True" TextAlignment="Right" VerticalAlignment="Bottom" FontSize="33" TextChanged="result_TextChanged">0</TextBox>
+        
+    </Grid>
+</Window>

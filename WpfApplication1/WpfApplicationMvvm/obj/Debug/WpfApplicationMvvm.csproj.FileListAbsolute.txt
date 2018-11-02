@@ -1,0 +1,33 @@
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\bin\Debug\WpfApplicationMvvm.exe.config
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\bin\Debug\WpfApplicationMvvm.exe
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\bin\Debug\WpfApplicationMvvm.pdb
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\Views\MainWindow.g.cs
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\App.g.cs
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm_MarkupCompile.cache
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm_MarkupCompile.lref
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\Views\MainWindow.baml
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.g.resources
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.Properties.Resources.resources
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.csproj.GenerateResource.Cache
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.exe
+C:\Users\muham\OneDrive\Belgeler\Visual Studio 2013\Projects\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.pdb
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\bin\Debug\WpfApplicationMvvm.exe.config
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\bin\Debug\WpfApplicationMvvm.exe
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\bin\Debug\WpfApplicationMvvm.pdb
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\Views\MainWindow.g.cs
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\App.g.cs
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm_MarkupCompile.cache
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm_MarkupCompile.lref
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\Views\MainWindow.baml
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.g.resources
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.Properties.Resources.resources
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.csproj.CopyComplete
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.exe
+C:\Users\muham\Desktop\staj\WpfApplication1\WpfApplicationMvvm\obj\Debug\WpfApplicationMvvm.pdb
